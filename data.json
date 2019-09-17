@@ -1,0 +1,28 @@
+{
+  "results": [
+      {
+        "id": "1",
+        "name": "Pub crawl",
+        "date": "18th September",
+        "time": "19:00",
+        "place": "Boozy Cow",
+        "description": "Pub crawl down Perth road",
+      },
+      {
+        "id": "2",
+        "name": "CV Workshop",
+        "date": "25th September",
+        "time": "13:00",
+        "place": "Dalhousie",
+        "description": "CV Workshop by industry professionals",
+      },
+      {
+        "id": "3",
+        "name": "Night out",
+        "date": "25th September",
+        "time": "19:00",
+        "place": "Braes",
+        "description": "Night out with the society",
+      }
+   ]
+}
